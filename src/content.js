@@ -2,12 +2,14 @@ export const chapters = [
   {
     id: 'intro',
     title: 'ПРЕДИСЛОВИЕ',
-    file: '/chapters/predisl.html'
+    file: '/chapters/predisl.html',
+    is_in_content: true
   },
   {
     id: 'cont1',
     title: 'Глава 1. Начальный период изучения звуковой стороны языка',
-    file: '/chapters/cont1.html'
+    file: '/chapters/cont1.html',
+    is_in_content: true
   },
   {
     id: '01-1',

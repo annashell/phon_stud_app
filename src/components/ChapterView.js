@@ -13,7 +13,6 @@ export default function ChapterView() {
   }
 
   useEffect(() => {
-    console.log("useEffect", chapter)
     if (chapter) {
       fetch(chapter.file)
         .then(response => response.text())
