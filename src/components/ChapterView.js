@@ -1,13 +1,19 @@
-import { useState, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
+import { useState, useEffect, useCallback } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 import { chapters } from '../content';
 
 export default function ChapterView() {
   const { id } = useParams();
+  const navigate = useNavigate();
   const [content, setContent] = useState('');
-  const chapter = chapters.find(c => c.id === id);
+  let chapter = chapters.find(c => c.id === id);
+
+  if (!chapter) {
+    chapter = chapters.find(c => c.id === id.split('.')[0]);
+  }
 
   useEffect(() => {
+    console.log("useEffect", chapter)
     if (chapter) {
       fetch(chapter.file)
         .then(response => response.text())
