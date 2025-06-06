@@ -290,5 +290,59 @@ export const chapters = [
     title: '5.3. Русская фонетика в «Российской грамматике» А.А. Барсова',
     file: '/chapters/05-3.html'
   },
-  // ... остальные главы
+  // TODO ... остальные главы
+  {
+    id: 'zakluch',
+    title: 'ЗАКЛЮЧЕНИЕ',
+    file: '/chapters/zakluch.html',
+    is_in_content: true
+  },
+  {
+    id: 'worldbet',
+    title: 'Приложение 1. Транскрипция на основе WORLDBET',
+    file: '/chapters/worldbet.html',
+    is_in_content: true
+  },
+  {
+    id: 'sampa',
+    title: 'Приложение 2. Транскрипция на основе SAMPA',
+    file: '/chapters/sampa.html',
+    is_in_content: true
+  },
+  {
+    id: 'ipachart',
+    title: 'Приложение 3. The international phonetic alphabet',
+    file: '/chapters/ipachart.html',
+    is_in_content: true
+  },
+  {
+    id: 'ipasoundcont',
+    title: 'Приложение 4. Международный фонетический алфавит (со звуковым сопровождением)',
+    file: '/chapters/ipasoundcont.html',
+    is_in_content: true
+  },
+  {
+    id: 'spisok',
+    title: 'СПИСОК ЛИТЕРАТУРЫ',
+    file: '/chapters/spisok.html',
+    is_in_content: true
+  },
+  {
+    id: 'upr',
+    title: 'СПИСОК КОНТРОЛЬНЫХ УПРАЖНЕНИЙ',
+    file: '/chapters/upr.html',
+    is_in_content: true
+  },
+  {
+    id: 'names',
+    title: 'ИМЕННОЙ УКАЗАТЕЛЬ',
+    file: '/chapters/names.html',
+    is_in_content: true
+  },
+  {
+    id: 'terms',
+    title: 'ТЕРМИНОЛОГИЧЕСКИЙ СЛОВАРЬ',
+    file: '/chapters/terms.html',
+    is_in_content: true
+  },
 ];
