@@ -1,10 +1,10 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { chapters } from '../content';
 
 export default function ChapterView() {
   const { id } = useParams();
-  const navigate = useNavigate();
+//  const navigate = useNavigate();
   const [content, setContent] = useState('');
   let chapter = chapters.find(c => c.id === id);
 

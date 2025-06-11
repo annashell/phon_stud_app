@@ -2,11 +2,30 @@ import { Link } from 'react-router-dom';
 
 export default function Navbar() {
   return (
-    <nav className="navbar">
-      <h4>Санкт-Петербургский государственный университет</h4>
-      <h1>История фонетических исследований</h1>
-      <Link to="/">Главная</Link>
-      <Link to="/contents">Содержание</Link>
+    <nav className="navbar main_content">
+    <div className="navbar_text">
+      <div className="navbar_uni">Санкт-Петербургский государственный университет</div>
+      <div className="navbar_title">История фонетических исследований</div>
+      <div className="navbar_buttons_div">
+
+          <Link to="/">
+            <button class="navbar-button">
+                Главная
+            </button>
+          </Link>
+
+
+            <Link to="/contents">
+                <button class="navbar-button">
+                    Содержание
+                </button>
+            </Link>
+
+      </div>
+    </div>
+    <div className="navbar_img_div">
+        <img className="navbar_img" src="/img/snail.png"></img>
+    </div>
     </nav>
   );
 }
