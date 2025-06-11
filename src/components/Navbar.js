@@ -24,7 +24,7 @@ export default function Navbar() {
       </div>
     </div>
     <div className="navbar_img_div">
-        <img className="navbar_img" src="/img/snail.png"></img>
+        <img alt="" className="navbar_img" src="/img/snail.png"></img>
     </div>
     </nav>
   );
