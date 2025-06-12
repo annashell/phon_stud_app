@@ -608,4 +608,10 @@ export const chapters = [
     file: '/chapters/terms.html',
     is_in_content: true
   },
+  {
+    id: 'testg1',
+    title: 'Глава 1. Начальный период изучения звуковой стороны языка',
+    file: '/chapters/tests/testg1/testg1.html',
+    isTest: true
+  },
 ];

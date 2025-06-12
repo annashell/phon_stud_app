@@ -1,0 +1,12 @@
+body { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-color: #004080; background-color: #FFFFFF }
+td { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-color: #004080;  }
+.headerBold {font-size: 11pt; font-weight: bold; color: #FFFFFF}
+.header {font-size: 11pt; font-weight: normal; color: #FFFFFF}
+.headerlink {font-size: 11pt; font-weight: normal; color: #FFFFFF; text-decoration:underline}
+hr {color: #004080}
+.ans { margin-left: 20px }
+div { padding: 5px }
+a { color: #004080; text-decoration: underline; font-weight:bold }
+a:hover { color: #FF0000 ; text-decoration: underline }
+input,textarea { font-family: Arial,sans-serif; font-size: 9pt;  }
+.input { font-family: Arial,sans-serif; font-size: 9pt; color: #004080 }

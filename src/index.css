@@ -93,7 +93,7 @@ main {
 }
 
 .navbar_title {
-    font-size: 32px;
+    font-size: 36px;
     font-weight: 400;
     margin-top: 40px;
 }
@@ -102,4 +102,10 @@ main {
     font-size: 18px;
     font-weight: 400;
     margin-top: 20px;
+}
+
+.navbar_chair {
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 5px;
 }
