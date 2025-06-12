@@ -56,6 +56,7 @@ main {
 .navbar_text {
     width: 80%;
     margin-right: 20px;
+    height: 200px;
 }
 
 .navbar_img_div {
@@ -63,7 +64,7 @@ main {
 }
 
 .navbar_img {
-    width: 50%;
+    width: 200px;
 }
 
 .navbar {
