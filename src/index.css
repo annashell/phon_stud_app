@@ -7,6 +7,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ipa {
+  font-family: 'IPAPhon', 'Gentium Plus', sans-serif;
+  font-size: 1.4em;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

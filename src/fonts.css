@@ -1,0 +1,17 @@
+/* Regular */
+@font-face {
+  font-family: 'Gentium Plus';
+  src: url('/public/fonts/Gentium-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Italic */
+@font-face {
+  font-family: 'Gentium Plus';
+  src: url('/public/fonts/Gentium-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
