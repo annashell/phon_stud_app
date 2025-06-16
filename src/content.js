@@ -585,6 +585,26 @@ export const chapters = [
     is_in_content: true
   },
   {
+    id: 'ipasound1',
+    title: 'Приложение 4. Согласные (дыхательные)',
+    file: '/chapters/ipasound1.html',
+  },
+  {
+    id: 'ipasound2',
+    title: 'Приложение 4. Согласные (недыхательные)',
+    file: '/chapters/ipasound2.html',
+  },
+  {
+    id: 'ipasound3',
+    title: 'Приложение 4. Другие символы',
+    file: '/chapters/ipasound3.html',
+  },
+  {
+    id: 'ipasound4',
+    title: 'Приложение 4. Гласные',
+    file: '/chapters/ipasound4.html',
+  },
+  {
     id: 'spisok',
     title: 'СПИСОК ЛИТЕРАТУРЫ',
     file: '/chapters/spisok.html',
@@ -607,11 +627,5 @@ export const chapters = [
     title: 'ТЕРМИНОЛОГИЧЕСКИЙ СЛОВАРЬ',
     file: '/chapters/terms.html',
     is_in_content: true
-  },
-  {
-    id: 'testg1',
-    title: 'Глава 1. Начальный период изучения звуковой стороны языка',
-    file: '/chapters/tests/testg1/testg1.html',
-    isTest: true
   },
 ];
