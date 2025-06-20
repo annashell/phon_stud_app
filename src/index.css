@@ -9,7 +9,8 @@ body {
 
 .ipa {
   font-family: 'IPAPhon', 'Gentium Plus', sans-serif;
-  font-size: 1.4em;
+  font-size: 1.9em;
+  margin: 10px;
 }
 
 code {
