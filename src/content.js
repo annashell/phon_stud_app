@@ -561,47 +561,41 @@ export const chapters = [
         is_in_content: true
     },
     {
-        id: 'worldbet',
-        title: 'Приложение 1. Транскрипция на основе WORLDBET',
-        file: '/chapters/worldbet.html',
-        is_in_content: true
-    },
-    {
         id: 'sampa',
-        title: 'Приложение 2. Транскрипция на основе SAMPA',
+        title: 'Приложение 1. Транскрипция на основе SAMPA',
         file: '/chapters/sampa.html',
         is_in_content: true
     },
     {
         id: 'ipachart',
-        title: 'Приложение 3. The international phonetic alphabet',
+        title: 'Приложение 2. The international phonetic alphabet',
         file: '/chapters/ipachart.html',
         is_in_content: true
     },
     {
         id: 'ipasoundcont',
-        title: 'Приложение 4. Международный фонетический алфавит (со звуковым сопровождением)',
+        title: 'Приложение 3. Международный фонетический алфавит (со звуковым сопровождением)',
         file: '/chapters/ipasoundcont.html',
         is_in_content: true
     },
     {
         id: 'ipasound1',
-        title: 'Приложение 4. Согласные (дыхательные)',
+        title: 'Приложение 3. Согласные (дыхательные)',
         file: '/chapters/ipasound1.html',
     },
     {
         id: 'ipasound2',
-        title: 'Приложение 4. Согласные (недыхательные)',
+        title: 'Приложение 3. Согласные (недыхательные)',
         file: '/chapters/ipasound2.html',
     },
     {
         id: 'ipasound3',
-        title: 'Приложение 4. Другие символы',
+        title: 'Приложение 3. Другие символы',
         file: '/chapters/ipasound3.html',
     },
     {
         id: 'ipasound4',
-        title: 'Приложение 4. Гласные',
+        title: 'Приложение 3. Гласные',
         file: '/chapters/ipasound4.html',
     },
     {
