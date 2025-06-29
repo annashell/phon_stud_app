@@ -43,6 +43,11 @@ export default function Home() {
                 <b>Разработка конструктора тестов TESTMAKER:</b>
                 <br/>
                 Захаркина Валентина Валентиновна, к.ф.-м.н.
+                <br/>
+                <br/>
+                <b>Перевод сайта учебника на React:</b>
+                <br/>
+                Титюшина Анна Олеговна
             </div>
 
             <div className="p-8 max-w-4xl mx-auto main_img">
