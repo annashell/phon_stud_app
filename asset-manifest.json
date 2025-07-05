@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/phon-stud-app/static/css/main.fb83be24.css",
-    "main.js": "/phon-stud-app/static/js/main.ac35b7a1.js",
-    "static/media/Gentium-Italic.ttf": "/phon-stud-app/static/media/Gentium-Italic.b755641ba87617c05301.ttf",
-    "static/media/Gentium-Regular.ttf": "/phon-stud-app/static/media/Gentium-Regular.13cbe4c251705bbbfba6.ttf",
-    "index.html": "/phon-stud-app/index.html",
-    "main.fb83be24.css.map": "/phon-stud-app/static/css/main.fb83be24.css.map",
-    "main.ac35b7a1.js.map": "/phon-stud-app/static/js/main.ac35b7a1.js.map"
+    "main.css": "/phon_stud_app/static/css/main.3e001307.css",
+    "main.js": "/phon_stud_app/static/js/main.40e9d641.js",
+    "static/media/Gentium-Italic.ttf": "/phon_stud_app/static/media/Gentium-Italic.b755641ba87617c05301.ttf",
+    "static/media/Gentium-Regular.ttf": "/phon_stud_app/static/media/Gentium-Regular.13cbe4c251705bbbfba6.ttf",
+    "index.html": "/phon_stud_app/index.html",
+    "main.3e001307.css.map": "/phon_stud_app/static/css/main.3e001307.css.map",
+    "main.40e9d641.js.map": "/phon_stud_app/static/js/main.40e9d641.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb83be24.css",
-    "static/js/main.ac35b7a1.js"
+    "static/css/main.3e001307.css",
+    "static/js/main.40e9d641.js"
   ]
 }
