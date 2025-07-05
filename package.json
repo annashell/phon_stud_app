@@ -2,7 +2,7 @@
   "name": "phon-stud-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://annashell.github.io/phon-stud-app",
+  "homepage": "https://annashell.github.io/phon_stud_app",
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@testing-library/dom": "^10.4.0",

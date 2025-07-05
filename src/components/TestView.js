@@ -8,7 +8,7 @@ export default function TestView() {
     useEffect(() => {
         const loadTest = async () => {
             try {
-                const response = await fetch(`/chapters/tests/${testPath}`);
+                const response = await fetch(`/phon_stud_app/chapters/tests/${testPath}`);
                 const html = await response.text();
                 setContent(html);
             } catch (error) {
@@ -20,7 +20,7 @@ export default function TestView() {
     }, [testPath]);
 
     useEffect(() => {
-        console.log(`Trying to load image from: /chapters/tests/${testPath}`);
+        console.log(`Trying to load image from: /phon_stud_app/chapters/tests/${testPath}`);
     }, [testPath]);
 
     return (

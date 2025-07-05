@@ -9,14 +9,14 @@ export default function Navbar() {
                 <div className="navbar_title">История фонетических исследований</div>
                 <div className="navbar_buttons_div">
 
-                    <Link to="/">
+                    <Link to="/phon_stud_app/">
                         <button className="navbar-button">
                             Главная
                         </button>
                     </Link>
 
 
-                    <Link to="/contents">
+                    <Link to="/phon_stud_app/contents">
                         <button className="navbar-button">
                             Содержание
                         </button>

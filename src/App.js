@@ -16,10 +16,10 @@ export default function App() {
     return (
         <Layout>
             <Routes>
-                <Route path="/" element={<Home/>}/>
-                <Route path="/contents" element={<Contents/>}/>
-                <Route path="/chapter/:id" element={<ChapterView/>}/>
-                <Route path="/chapter/tests/*" element={<TestView/>}/>
+                <Route path="/phon_stud_app/" element={<Home/>}/>
+                <Route path="/phon_stud_app/contents" element={<Contents/>}/>
+                <Route path="/phon_stud_app/chapter/:id" element={<ChapterView/>}/>
+                <Route path="/phon_stud_app/chapter/tests/*" element={<TestView/>}/>
             </Routes>
         </Layout>
     );

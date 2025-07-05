@@ -9,7 +9,7 @@ export default function Sidebar() {
             <ul>
                 {chapters_.map(chapter => (
                     <li key={chapter.id}>
-                        <Link to={`/chapter/${chapter.id}`}>
+                        <Link to={`/phon_stud_app/chapter/${chapter.id}`}>
                             {chapter.title}
                         </Link>
                     </li>

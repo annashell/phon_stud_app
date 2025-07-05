@@ -15,7 +15,7 @@ export default function Contents() {
                             margin: '5px 0'
                         }}
                     >
-                        <Link to={`/chapter/${chapter.id}`}>
+                        <Link to={`/phon_stud_app/chapter/${chapter.id}`}>
                             {chapter.title}
                         </Link>
                     </div>
