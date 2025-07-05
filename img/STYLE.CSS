@@ -1,0 +1,54 @@
+<Html>
+<!--Table of styles for HTML-->
+<Head>
+<STYLE>
+<!--
+
+BODY
+{color : navy;
+background :url(fon.jpg);
+font-size : 20;
+text-align:justify; }
+
+
+A:link
+{color	: red;
+text-decoration : underline;}
+
+A:visited
+{color	: red;
+text-decoration : none;
+text-decoration : underline;}
+
+A:active
+{color	: purple;
+text-decoration : none;
+text-decoration : underline;}
+
+A:hover
+{color	: purple;
+text-decoration : underline;}
+
+H1
+{color:Blue;
+font-weight:normal;
+font-size:20;}
+
+H2
+{font-weight:normal;
+font-size:30;
+color : black;}
+
+HR
+{text-align :left;}
+
+
+
+
+
+-->
+</STYLE>
+</Head>
+</Html>
+
+
