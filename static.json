@@ -1,5 +1,5 @@
 {
   "staticFiles": {
-    "include": ["/img/**/*"]
+    "include": ["/phon_stud_app/img/**/*"]
   }
 }

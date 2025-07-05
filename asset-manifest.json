@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phon_stud_app/static/css/main.3e001307.css",
-    "main.js": "/phon_stud_app/static/js/main.40e9d641.js",
+    "main.js": "/phon_stud_app/static/js/main.79bd6bba.js",
     "static/media/Gentium-Italic.ttf": "/phon_stud_app/static/media/Gentium-Italic.b755641ba87617c05301.ttf",
     "static/media/Gentium-Regular.ttf": "/phon_stud_app/static/media/Gentium-Regular.13cbe4c251705bbbfba6.ttf",
     "index.html": "/phon_stud_app/index.html",
     "main.3e001307.css.map": "/phon_stud_app/static/css/main.3e001307.css.map",
-    "main.40e9d641.js.map": "/phon_stud_app/static/js/main.40e9d641.js.map"
+    "main.79bd6bba.js.map": "/phon_stud_app/static/js/main.79bd6bba.js.map"
   },
   "entrypoints": [
     "static/css/main.3e001307.css",
-    "static/js/main.40e9d641.js"
+    "static/js/main.79bd6bba.js"
   ]
 }
