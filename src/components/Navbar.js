@@ -25,7 +25,7 @@ export default function Navbar() {
                 </div>
             </div>
             <div className="navbar_img_div">
-                <img alt="" className="navbar_img" src="/img/snail.png"></img>
+                <img alt="" className="navbar_img" src="/phon_stud_app/img/snail.png"></img>
             </div>
         </nav>
     );

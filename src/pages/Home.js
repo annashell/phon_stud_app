@@ -51,7 +51,7 @@ export default function Home() {
             </div>
 
             <div className="p-8 max-w-4xl mx-auto main_img">
-                <img alt="" src="/img/gordina.jpg"></img>
+                <img alt="" src="/phon_stud_app/img/gordina.jpg"></img>
             </div>
         </div>
     );
