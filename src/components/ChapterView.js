@@ -19,11 +19,10 @@ export default function ChapterView() {
                 .then(html => setContent(html));
         }
         console.log("chapter", chapter);
-        console.log("content", content);
     }, [id, chapter]);
 
     if (!chapter) return <div>Глава не найдена</div>;
-
+    console.log("content", content);
     return (
         <div className="chapter-content">
             <div dangerouslySetInnerHTML={{__html: content}}/>
