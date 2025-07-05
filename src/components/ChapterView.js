@@ -18,6 +18,8 @@ export default function ChapterView() {
                 .then(response => response.text())
                 .then(html => setContent(html));
         }
+        console.log("chapter", chapter);
+        console.log("content", content);
     }, [id, chapter]);
 
     if (!chapter) return <div>Глава не найдена</div>;
